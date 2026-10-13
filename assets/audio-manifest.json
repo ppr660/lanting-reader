@@ -1,0 +1,62 @@
+[
+  {
+    "file": "voice-01.mp3",
+    "duration": 13.104,
+    "bytes": 157248
+  },
+  {
+    "file": "voice-02.mp3",
+    "duration": 8.04,
+    "bytes": 96480
+  },
+  {
+    "file": "voice-03.mp3",
+    "duration": 11.352,
+    "bytes": 136224
+  },
+  {
+    "file": "voice-04.mp3",
+    "duration": 14.952,
+    "bytes": 179424
+  },
+  {
+    "file": "voice-05.mp3",
+    "duration": 11.136,
+    "bytes": 133632
+  },
+  {
+    "file": "voice-06.mp3",
+    "duration": 10.44,
+    "bytes": 125280
+  },
+  {
+    "file": "voice-07.mp3",
+    "duration": 13.512,
+    "bytes": 162144
+  },
+  {
+    "file": "voice-08.mp3",
+    "duration": 9.96,
+    "bytes": 119520
+  },
+  {
+    "file": "voice-09.mp3",
+    "duration": 7.944,
+    "bytes": 95328
+  },
+  {
+    "file": "voice-10.mp3",
+    "duration": 9.888,
+    "bytes": 118656
+  },
+  {
+    "file": "voice-11.mp3",
+    "duration": 8.064,
+    "bytes": 96768
+  },
+  {
+    "file": "voice-12.mp3",
+    "duration": 3.984,
+    "bytes": 47808
+  }
+]
